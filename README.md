@@ -1,2 +1,3 @@
-# Just-The-Basics
-Parent repository to put in projects surrounding basic projects surrounding HTML, CSS, or Javascript.  For older projects, consult the "Spring Cleaning 2024" repository.
+# Just the Basics
+
+A consolidation of my simplest projects typically through follow along tutorials.  Will expand over time.  Utilized as either a refresher, or as a learning device.  Will be a major hub (parent folder) with many offshoots containing individual projects.  There may be repeats of projects, just being performed in different ways.  Individual projects may be marked as such down the road.  For now, this will be a dump for all basic web development projects covering html, css, and javascript.

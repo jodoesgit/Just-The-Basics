@@ -32,4 +32,11 @@ const addTodo = () => {
     inputBox.value = "";
 }
 
+const updateTodo = (e) => {
+    if(e.target.innerHTML === "delete") {
+        todoList.removeChild(e.target.parentElement);
+    }
+}
+
 addBtn.addEventListener('click', addTodo);
+todoList.addEventListener('click', updateTodo);
